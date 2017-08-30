@@ -1,0 +1,69 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (psychteapot.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  lab0.c
+c:\users\oscar\skola\opengl\psychteapot\lab0.c(36): warning C4305: 'function': truncation from 'double' to 'GLclampf'
+c:\users\oscar\skola\opengl\psychteapot\lab0.c(45): warning C4305: 'function': truncation from 'double' to 'float'
+  MicroGlut.c
+c:\users\oscar\skola\opengl\psychteapot\common\windows\microglut.c(187): warning C4133: 'function': incompatible types - from 'char [9]' to 'LPCWSTR'
+c:\users\oscar\skola\opengl\psychteapot\common\windows\microglut.c(408): warning C4133: '=': incompatible types - from 'char [9]' to 'LPCWSTR'
+c:\users\oscar\skola\opengl\psychteapot\common\windows\microglut.c(411): warning C4013: 'main' undefined; assuming extern returning int
+  glew.c
+  VectorUtils3.c
+c:\users\oscar\skola\opengl\psychteapot\common\vectorutils3.c(200): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\vectorutils3.c(209): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\vectorutils3.c(265): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\vectorutils3.c(267): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\vectorutils3.c(269): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\vectorutils3.c(279): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\vectorutils3.c(281): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\vectorutils3.c(283): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\vectorutils3.c(293): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\vectorutils3.c(295): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\vectorutils3.c(297): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\vectorutils3.c(711): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\vectorutils3.c(714): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\vectorutils3.c(719): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\vectorutils3.c(732): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  LoadTGA.c
+c:\users\oscar\skola\opengl\psychteapot\common\loadtga.c(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\oscar\skola\opengl\psychteapot\common\loadtga.c(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\oscar\skola\opengl\psychteapot\common\loadtga.c(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\oscar\skola\opengl\psychteapot\common\loadtga.c(169): warning C4018: '>=': signed/unsigned mismatch
+c:\users\oscar\skola\opengl\psychteapot\common\loadtga.c(51): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\oscar\skola\opengl\psychteapot\common\loadtga.c(258): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  loadobj.c
+c:\users\oscar\skola\opengl\psychteapot\common\loadobj.c(117): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\oscar\skola\opengl\psychteapot\common\loadobj.c(118): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\oscar\skola\opengl\psychteapot\common\loadobj.c(138): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\oscar\skola\opengl\psychteapot\common\loadobj.c(139): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\oscar\skola\opengl\psychteapot\common\loadobj.c(161): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\oscar\skola\opengl\psychteapot\common\loadobj.c(162): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\oscar\skola\opengl\psychteapot\common\loadobj.c(454): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\oscar\skola\opengl\psychteapot\common\loadobj.c(484): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\oscar\skola\opengl\psychteapot\common\loadobj.c(631): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\loadobj.c(632): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\loadobj.c(633): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\loadobj.c(639): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\loadobj.c(641): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\loadobj.c(643): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\loadobj.c(670): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\loadobj.c(839): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\loadobj.c(840): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\oscar\skola\opengl\psychteapot\common\loadobj.c(841): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+  GL_utilities.c
+c:\users\oscar\skola\opengl\psychteapot\common\gl_utilities.c(34): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\oscar\skola\opengl\psychteapot\common\gl_utilities.c(213): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Generating Code...
+c:\users\oscar\skola\opengl\psychteapot\common\vectorutils3.c(776): warning C4716: 'ortho': must return a value
+  psychteapot.vcxproj -> C:\Users\oscar\skola\openGL\psychteapot\Debug\lab0.exe
